@@ -3,3 +3,19 @@ This project analyzes best-selling products, sales trends, and high-revenue cate
 
 
 - <a href="https://github.com/Komil-web/FUTURE_DS_01/blob/main/README.md"></a>
+
+
+## 🎯 Objective
+- Analyze overall sales performance
+- Identify top-performing products and categories
+- Track revenue trends over time
+- Provide actionable insights for business strategy
+
+## 🛠 Tools & Skills Used
+- Power BI
+- Data Cleaning & Transformation
+- DAX Calculations
+- Trend Analysis
+- Business Storytelling
+
+- Dashboard
