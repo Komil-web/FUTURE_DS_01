@@ -19,3 +19,4 @@ This project analyzes best-selling products, sales trends, and high-revenue cate
 - Business Storytelling
 
 - Dashboard
+- <a href="https://github.com/Komil-web/FUTURE_DS_01/blob/main/Screenshot%202025-12-28%20101638.png">View Dashboard</a>
